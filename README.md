@@ -74,7 +74,7 @@ The personal expense tracker is assigned to each user, displaying their own expe
   
   ![original (1) (1)](https://user-images.githubusercontent.com/81185080/186354542-878eb701-930a-463b-9b7e-7f8e1fc16abb.png)
 
-  <img src="readmephoto/original (1).png">
+  <h3><strong>Dashboard</strong><h3>
   
   ![original (2)](https://user-images.githubusercontent.com/81185080/186354567-e8bcaec5-96ac-42b0-85bb-3d2c0000463f.png)
 
