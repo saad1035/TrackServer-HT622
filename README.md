@@ -1,4 +1,4 @@
-# Track - Expense Tracker Application (BackEnd Repo)
+# Track - Expense Tracker Application (BackEnd Repository)
 Track is an expense tracker that enables collaboration between people when budgeting. Track was submitted for the 2022 HackThe6ix hackathon, gaining the "Best Beginner Hack" award.
 
 FrontEnd Repo : https://github.com/saad1035/TrackUI-HT622 </br>
@@ -6,7 +6,7 @@ DevPost : https://devpost.com/software/track-pwrn7y
 
 Developped during HackThe6ix '22
 
-<p align="center">
+<p align="left">
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/195/143/datas/medium.gif">
 </p>
 
