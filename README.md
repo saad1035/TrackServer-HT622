@@ -33,9 +33,16 @@ The personal expense tracker is assigned to each user, displaying their own expe
 - The Frontend was built with the use of vanilla React and Tailwind CSS
 
 # Challenges We Ran Into
-- Frontend: Connecting EmailJS to the help form Retrieving specific data from the backend and displaying pop-ups accordingly Keeping the theme consistent while also ensuring that the layout and dimensions didn’t overlap or wrap Creating hover animations for buttons and messages
+- Frontend: 
+  - Connecting EmailJS to the help form 
+  - Retrieving specific data from the backend and displaying pop-ups accordingly 
+  - Keeping the theme consistent while also ensuring that the layout and dimensions didn’t overlap or wrap 
+  - Creating hover animations for buttons and messages
 
-- Backend: Embedded objects were not being correctly updated - needed to learn about storing references to objects and populating the references Designing the backend based on frontend requirements and the overall goal of the website
+- Backend: 
+  - Embedded objects were not being correctly updated 
+  - Needed to learn about storing references to objects and populating the references 
+  - Designing the backend based on frontend requirements and the overall goal of the website
 
 # Accomplishments We’re Proud Of
 
