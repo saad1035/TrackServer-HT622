@@ -4,7 +4,7 @@ Track is an expense tracker that enables collaboration between people when budge
 FrontEnd Repo : https://github.com/saad1035/TrackUI-HT622 </br>
 DevPost : https://devpost.com/software/track-pwrn7y
 
-Developped during HackThe6ix '22
+Developped with love during HackThe6ix '22
 
 <p align="left">
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/195/143/datas/medium.gif">
