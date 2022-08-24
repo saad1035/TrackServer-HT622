@@ -67,13 +67,23 @@ The personal expense tracker is assigned to each user, displaying their own expe
 
 <p align="center">
   <h3><strong>Landing Page</strong></h3>
-  <img src="readmephoto/original.png">
-  <h3><strong>Personnal Dashboard</strong></h3>
+  
+  ![original (1)](https://user-images.githubusercontent.com/81185080/186354434-8f963e6d-22ea-4112-8279-89e6dd0d5821.png)
+
+  <h3><strong>Personal Dashboard</strong></h3>
+  
+  ![original (1) (1)](https://user-images.githubusercontent.com/81185080/186354542-878eb701-930a-463b-9b7e-7f8e1fc16abb.png)
+
   <img src="readmephoto/original (1).png">
-  <h3><strong>Dashboard</strong></h3>
-  <img src="readmephoto/original (2).png">
+  
+  ![original (2)](https://user-images.githubusercontent.com/81185080/186354567-e8bcaec5-96ac-42b0-85bb-3d2c0000463f.png)
+
   <h3><strong>Add Expenses</strong></h3>
-  <img src="readmephoto/original (3).png">
+  
+  ![original (3)](https://user-images.githubusercontent.com/81185080/186354615-7e1abec0-bd42-4899-a50a-423b13f10c7c.png)
+
   <h3><strong>Contact Page</strong></h3>
-  <img src="readmephoto/original (4).png">
+  
+  ![original (4)](https://user-images.githubusercontent.com/81185080/186354649-d3a20ae5-814e-4568-931f-a4ef881b9232.png)
+
 </p>
