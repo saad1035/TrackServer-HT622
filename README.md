@@ -20,10 +20,10 @@ Developped during HackThe6ix '22
 
 - The website has two key components:
 
-- Family Expense Tracker:
+  - Family Expense Tracker:
 The family expense tracker is the ```main dashboard``` for all users. It showcases each individual family member’s total expenses while also displaying the expenses through categories. Both members and owners of the family can access this screen. Members can be added to the owner’s family via a household key which is only given access to the owner of the family. Permissions vary between both members and owners. Owners gain access to each individual’s personal expense tracker, while members have only access to their own personal expense tracker.
 
-- Personal Expense Tracker:
+  - Personal Expense Tracker:
 The personal expense tracker is assigned to each user, displaying their own expenses. Users are allowed to look at past expenses from the start of the account to the present time. They are also allowed to add expenses with a click of a button.
 
 # How We Built It
